@@ -1,12 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Collinear.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/codeInsightSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/fileTemplates/includes/File Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/findbugs-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/algs4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.lift/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.lift/checkstyle-coursera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.lift/checkstyle-lift.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.lift/checkstyle-suppressions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.lift/spotbugs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/greeting57.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/greeting57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/heart25.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/heart25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input1-no.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input1-no.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input10-no.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input10-no.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input2-no.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input2-no.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input20.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input50.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input8-dups.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input8-dups.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input8-no.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input8-no.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/input8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/input8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/java60.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/java60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/jerry47.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/jerry47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/sedgewick60.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/sedgewick60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/snake101.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/snake101.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/snake13.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/snake13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/wayne98.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/wayne98.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/lift/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Point.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1832" />
-    <option name="y" value="350" />
-    <option name="width" value="1918" />
-    <option name="height" value="1196" />
+    <option name="x" value="1920" />
+    <option name="y" value="-4" />
+    <option name="width" value="1916" />
+    <option name="height" value="1188" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showLibraryContents PackagesPane="false" />
+      <autoscrollToSource PackagesPane="true" ProjectPane="true" />
+      <autoscrollFromSource PackagesPane="true" ProjectPane="true" />
+      <sortByType Scope="true" PackagesPane="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Collinear Points" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collinear" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552517577960" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1552517522297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552517522297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-4" width="1920" height="1204" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21611527" />
+      <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32825485" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
