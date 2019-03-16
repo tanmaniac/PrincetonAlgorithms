@@ -23,3 +23,4 @@ Percolation/greeting57.png filter=lfs diff=lfs merge=lfs -text
 Percolation/input1.png filter=lfs diff=lfs merge=lfs -text
 Percolation/input20.png filter=lfs diff=lfs merge=lfs -text
 Percolation/snake13.png filter=lfs diff=lfs merge=lfs -text
+**/*.png filter=lfs diff=lfs merge=lfs -text
